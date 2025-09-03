@@ -26,7 +26,7 @@ Karen Stephanie Agudelo Borbón
 
 
 
-## Marqueting:
+## Marketing:
 * ### Objectivos de negocio: Aumentar la visibilidad de la marca y las ventas digitales mediante la implementación de campañas publicitarias segmentadas, con el fin de lograr un incremento del 20 % en el tráfico web y un 15 % en la tasa de conversión en un plazo de seis meses, optimizando la inversión publicitaria y fortaleciendo el posicionamiento de la empresa en su mercado.
 
 * ### Específico: Diseñar e implementar campañas digitales que aumenten la visibilidad de la marca y potencien las ventas, al tiempo que se optimiza la tasa de conversión mediante pruebas A/B y ajustes estratégicos en anuncios.
