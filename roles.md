@@ -1,6 +1,10 @@
 integrantes:
 
-sebastian parada
+Juan Sebastian Parada Cobo
+
+Juan Manuel Arcilla Cifuentes
+
+Karen Stephanie Agudelo Borbón
 
 # *Roles*
 ## *Direccion Comercial* (El equipo de Marketing)
